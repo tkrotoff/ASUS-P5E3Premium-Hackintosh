@@ -18,5 +18,5 @@ Install [DSDT Editor](http://www.insanelymac.com/forum/topic/223205-dsdt-editor-
 Check:
 
 - UserDSDT or DSDT-Free Installation
-- VoodooHDA 0.2.72
+- VoodooHDA 0.2.7.3
 - Realtek - AppleRTL8169Ethernet 2.0.6 for 10.7
