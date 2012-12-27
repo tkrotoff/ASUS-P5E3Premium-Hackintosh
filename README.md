@@ -8,9 +8,12 @@ Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/Intel_
 
 Inside a Terminal:
 
-- Download this [repository](https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/archive/master.zip) or `git clone https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh.git`
-- `cd ASUS-P5E3Premium-Hackintosh`
-- `./concat_dsdt_patches.rb`
+```
+curl -OL https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/archive/master.zip
+unzip master.zip
+cd ASUS-P5E3Premium-Hackintosh-master
+./concat_dsdt_patches.rb
+```
 
 This generates file `all_dsdt_patches.txt`.
 
@@ -23,7 +26,9 @@ Install [DSDT Editor](http://www.insanelymac.com/forum/topic/223205-dsdt-editor-
 
 Under Snow Leopard, sleep and wake should work.
 
-Under Mountain Lion, wake does not work: [I need some help on this](https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/1).
+Not tested under Lion.
+
+Under Mountain Lion, wake is slow: [I need some help on this](https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/1).
 
 ## MultiBeast
 
