@@ -22,7 +22,8 @@ Install [DSDT Editor](http://www.insanelymac.com/forum/topic/223205-dsdt-editor-
 - Save AML as *.aml on the desktop
 
 Under Snow Leopard, sleep and wake should work.
-Under Mountain Lion, wake does not work: I need some help on this.
+
+Under Mountain Lion, wake does not work: [I need some help on this](https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/1).
 
 ## MultiBeast
 
