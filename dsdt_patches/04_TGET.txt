@@ -1,0 +1,7 @@
+# Insert return into method TGET to fix warning
+#
+into method label TGET code_regex Return\s\(Zero\) remove_matched;
+into method label TGET insert
+begin
+Return (Zero)
+end

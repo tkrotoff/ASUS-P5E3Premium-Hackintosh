@@ -1,0 +1,7 @@
+# Insert return into method FGET to fix warning
+#
+into method label FGET code_regex Return\s\(Zero\) remove_matched;
+into method label FGET insert
+begin
+Return (Zero)
+end

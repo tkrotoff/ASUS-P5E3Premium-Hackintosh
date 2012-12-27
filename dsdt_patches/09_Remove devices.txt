@@ -1,0 +1,10 @@
+# Remove unused devices
+#
+into device label SPKR remove_entry;
+into device label FDC remove_entry;
+into device label FDC0 remove_entry;
+into device label LPT1 remove_entry;
+into device label LPTE remove_entry;
+into device label ECP1 remove_entry;
+into device label MEM remove_entry;
+into device label ^^RMEM remove_entry
