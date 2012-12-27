@@ -8,7 +8,7 @@ Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/Intel_
 
 Inside a Terminal:
 
-- `git clone https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh.git`
+- Download this [repository](https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/archive/master.zip) or `git clone https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh.git`
 - `cd ASUS-P5E3Premium-Hackintosh`
 - `./concat_dsdt_patches.rb`
 
