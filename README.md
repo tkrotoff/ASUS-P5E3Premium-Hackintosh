@@ -2,6 +2,10 @@
 
 Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/Intel_Socket_775/P5E3_PremiumWiFiAP_n/) motherboard.
 
+Intel X48 chipset.
+
+Intel Core 2 Extreme / Core 2 Quad / Core 2 Duo / Pentium Extreme / Pentium D / Pentium 4 Processors (LGA775 socket).
+
 Onboard devices:
 
 - Ralink RT2770F wireless USB adapter
@@ -9,7 +13,7 @@ Onboard devices:
 - LSI (Formerly Agere) L-FW3227 PCI IEEE-1394 FireWire controller
 - Realtek RTL-8110SC PCI to Gigabit Ethernet controller
 - Marvell 88E8056-NNC1 PCI-Express to Gigabit Ethernet controller
-- Analog Devices AD1988B HD audio codec
+- Analog Devices AD1988B HD audio chipset
 
 ## BIOS settings
 
