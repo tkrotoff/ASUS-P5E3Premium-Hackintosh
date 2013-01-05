@@ -78,3 +78,7 @@ Check:
 - TRIM Enabler (if you own a SSD disk)
 - GraphicsEnabler=No (if you own a natively supported GPU like the Nvidia GeForce GT 640)
 - AppleACPIPlatform Rollback/10.6.8 Rollback for ASUS X58 System (see https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/1)
+
+## License
+
+Do whatever you like with it, this is public domain.
