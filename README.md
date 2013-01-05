@@ -61,7 +61,8 @@ Install [DSDT Editor](http://www.insanelymac.com/forum/topic/223205-dsdt-editor-
 Sources:
 
 - [Asus P5E DSDT fixes](http://www.insanelymac.com/forum/index.php?showtopic=199816)
-- [DSDT editor and patcher](http://www.insanelymac.com/forum/topic/223205-dsdt-editor-and-patcher/)
+- [DSDT editor and patcher on InsanelyMac](http://www.insanelymac.com/forum/topic/223205-dsdt-editor-and-patcher/)
+- [DSDT editor and patcher on olarila.com](http://olarila.com/forum/viewtopic.php?f=7&t=62)
 - [DSDT patching 101](http://olarila.com/forum/viewtopic.php?f=19&t=634)
 - [DSDT patches by motherboard](http://olarila.com/forum/packs.php)
 - [Asus P5E3 "Vanilla" Mac OS X version 10.6](http://www.insanelymac.com/forum/topic/182580-asus-p5e3-vanilla-mac-os-x-version-106/)
