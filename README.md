@@ -82,4 +82,4 @@ Check:
 
 ## License
 
-Do whatever you like with it, this is public domain.
+Do whatever you like, this is public domain.
