@@ -19,6 +19,7 @@ Onboard devices:
 
 Latest BIOS: version [0803 (2009/06/22 update)](http://www.asus.com/Motherboards/Intel_Socket_775/P5E3_PremiumWiFiAP_n/#download)
 
+- Exit / Load Setup Defaults
 - Main / SATA Configuration / Configure SATA as - **AHCI**
 - Advanced / J-Micron eSATA/PATA Controller / Controller Mode - **AHCI** (needed only if you use legacy IDE drives)
 - Power / Suspend Mode - **S3 only**
