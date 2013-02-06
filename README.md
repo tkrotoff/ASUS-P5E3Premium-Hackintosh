@@ -88,6 +88,7 @@ Check:
 - I didn't test the Ralink RT2770F wireless card, check [Airport-like app for Ralink 2870](http://www.insanelymac.com/forum/topic/168984-airport-like-app-for-ralink-2870/)
 - I didn't test the Marvell Yukon 88E8056 Ethernet card, plug your Ethernet cable to the Realtek RTL-8110SC card
 - I didn't test the JMicron JMB363 ATA-133/SATA-3.0 controller, check [JMicron ATA Support - might not work with 10.8](http://tonymacx86.blogspot.fr/2010/03/jmicron-ata-support.html)
+- If you want to boot on a [4K Advanced Format hard disk](http://en.wikipedia.org/wiki/Advanced_Format), check [How to fix the boot0 error for your Hackintosh](http://www.macbreaker.com/2012/02/hackintosh-boot0-error.html)
 
 ## License
 
