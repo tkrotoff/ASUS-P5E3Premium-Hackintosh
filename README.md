@@ -1,9 +1,9 @@
 # ASUS-P5E3Premium-Hackintosh
 
-Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/Intel_Socket_775/P5E3_PremiumWiFiAP_n/) motherboard using OS X 10.8.2 Mountain Lion.
+Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/Intel_Socket_775/P5E3_PremiumWiFiAP_n/) motherboard using OS X 10.8.2 Mountain Lion.  
+This is a minimal guide that fits my hardware configuration.
 
-Intel X48 chipset.
-
+Intel X48 chipset.  
 Intel Core 2 Extreme / Core 2 Quad / Core 2 Duo / Pentium Extreme / Pentium D / Pentium 4 Processors (LGA775 socket).
 
 Onboard devices:
@@ -82,6 +82,12 @@ Check:
 - TRIM Enabler (if you own a SSD disk)
 - GraphicsEnabler=No (if you own a natively supported GPU like the Nvidia GeForce GT 640)
 - AppleACPIPlatform Rollback/10.6.8 Rollback for ASUS X58 System (see https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/1)
+
+## Remarks
+
+- I didn't test the Ralink RT2770F wireless card, check [Airport-like app for Ralink 2870](http://www.insanelymac.com/forum/topic/168984-airport-like-app-for-ralink-2870/)
+- I didn't test the Marvell Yukon 88E8056 Ethernet card, plug your Ethernet cable to the Realtek RTL-8110SC card
+- I didn't test the JMicron JMB363 ATA-133/SATA-3.0 controller, check [JMicron ATA Support - might not work with 10.8](http://tonymacx86.blogspot.fr/2010/03/jmicron-ata-support.html)
 
 ## License
 
