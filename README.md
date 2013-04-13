@@ -1,6 +1,6 @@
 # ASUS-P5E3Premium-Hackintosh
 
-Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/Intel_Socket_775/P5E3_PremiumWiFiAP_n/) motherboard using OS X 10.8.2 Mountain Lion.  
+Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/P5E3_PremiumWiFiAP_n) motherboard using OS X 10.8.2 Mountain Lion.  
 This is a minimal guide that fits my hardware configuration.
 
 Intel X48 chipset.  
@@ -17,7 +17,7 @@ Onboard devices:
 
 ## BIOS settings
 
-Latest BIOS: version [0803 (2009/06/22 update)](http://www.asus.com/Motherboards/Intel_Socket_775/P5E3_PremiumWiFiAP_n/#download)
+Latest BIOS: version [0803 (2009/06/22 update)](http://www.asus.com/Motherboards/P5E3_PremiumWiFiAP_n#support_Download)
 
 - Exit / Load Setup Defaults
 - Main / SATA Configuration / Configure SATA as - **AHCI**
