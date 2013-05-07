@@ -1,6 +1,6 @@
 # ASUS-P5E3Premium-Hackintosh
 
-Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/P5E3_PremiumWiFiAP_n) motherboard using OS X 10.8.2 Mountain Lion.  
+Hackintosh for [P5E3 Premium/WiFi-AP @n](http://www.asus.com/Motherboards/P5E3_PremiumWiFiAP_n) motherboard using OS X 10.8.3 Mountain Lion.  
 This is a minimal guide that fits my hardware configuration.
 
 Intel X48 chipset.  
@@ -72,16 +72,17 @@ Sources:
 
 ## MultiBeast
 
-Using version 5.2.1.
+Using version 5.3.0.
 
 Check:
 
 - UserDSDT or DSDT-Free Installation
-- VoodooHDA 0.2.7.3
-- Realtek - AppleRTL8169Ethernet
-- TRIM Enabler (if you own a SSD disk)
-- GraphicsEnabler=No (if you own a natively supported GPU like the Nvidia GeForce GT 640)
-- AppleACPIPlatform Rollback/10.6.8 Rollback for ASUS X58 System (see https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/1)
+- Audio / Universal / VoodooHDA 0.2.7.3 ([can provoke crashes at boot time](https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/2))
+- Disk / TRIM Enabler (if you own a SSD disk)
+- Network / Realtek - AppleRTL8169Ethernet
+- System / AppleACPIPlatform Rollback / 10.6.8 Rollback for ASUS X58 System (see https://github.com/tkrotoff/ASUS-P5E3Premium-Hackintosh/issues/1)
+- Boot Options / GraphicsEnabler=No (if you own a natively supported GPU like the Nvidia GeForce GT 640)
+- Boot Options / Verbose Boot (if you want to see what's going on)
 
 ## Remarks
 
