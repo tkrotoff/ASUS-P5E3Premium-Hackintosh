@@ -1,4 +1,5 @@
 # Rename devices to Mac specific ones (by fbifido)
+# See Renamed devices to mac specific ones http://www.insanelymac.com/forum/topic/225417-dsdt-renamed-devices-to-mac-specific-ones/
 #
 into device label MCH set_label begin MCEH end;
 into device label PIC set_label begin IPIC end;
@@ -10,7 +11,7 @@ into device label OMSC set_label begin LDRC end;
 into device label CHN0 set_label begin PRT0 end;
 into device label CHN1 set_label begin PRT1 end;
 into device label EUSB set_label begin EHCI end;
-into device label USBE set_label begin UCHI end;
+into device label USBE set_label begin UHCI end;
 into device label USB0 set_label begin UHC1 end;
 into device label USB1 set_label begin UHC2 end;
 into device label USB2 set_label begin UHC3 end;
@@ -26,7 +27,7 @@ into_all all code_regex OMSC replaceall_matched begin LDRC end;
 into_all all code_regex CHN0 replaceall_matched begin PRT0 end;
 into_all all code_regex CHN1 replaceall_matched begin PRT1 end;
 into_all all code_regex EUSB replaceall_matched begin EHCI end;
-into_all all code_regex USBE replaceall_matched begin UCHI end;
+into_all all code_regex USBE replaceall_matched begin UHCI end;
 into_all all code_regex USB0 replaceall_matched begin UHC1 end;
 into_all all code_regex USB1 replaceall_matched begin UHC2 end;
 into_all all code_regex USB2 replaceall_matched begin UHC3 end;
